@@ -19,14 +19,14 @@ fuck the JD
 说出JD违法的地方，举报它
 
 ## 起诉书相关
+
 华尔街见闻 [刘强东被起诉书，当事人授权全译本](https://wallstreetcn.com/articles/3514825)
 
 ## 相关新闻
 
 财新网 [刘强东案女事主回应“我一直在拒绝”](http://companies.caixin.com/2019-04-26/101408728.html)
 
-      [反侵权公告（第44号）：对凤凰网科技、新浪微博擅改标题歪曲财新文章的强烈谴责](http://m.caixin.com/m/2019-04-26/101409065.html?from=timeline&isappinstalled=0&cx_referer=http%3A%2F%2Fwww.caixin.com%2F2019-04-26%2F101409065.html)
-      
+财新网 [反侵权公告（第44号）：对凤凰网科技、新浪微博擅改标题歪曲财新文章的强烈谴责](http://m.caixin.com/m/2019-04-26/101409065.html?from=timeline&isappinstalled=0&cx_referer=http%3A%2F%2Fwww.caixin.com%2F2019-04-26%2F101409065.html)
       
 搜狐 [刘强东案女当事人首次回应媒体 ：否认“仙人跳” “我一直在拒绝” ](http://www.sohu.com/a/310424429_115565)
 
