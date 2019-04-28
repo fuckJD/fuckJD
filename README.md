@@ -1,6 +1,9 @@
+# irony 分支
+
+接受一切吐槽和讽刺创造
+
 # fuckJD
 fuck the JD
-
 
 抵制JD，卸载JD
 
