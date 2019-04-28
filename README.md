@@ -34,8 +34,22 @@ fuck the JD
 
 知乎 [如何评价刘强东24G监控流出？](https://www.zhihu.com/question/321720845?utm_source=wechat_session&utm_medium=social&s_s_i=XPtirsFh5Q6%2BR60QQ6SRL%2FJyIoZtLBKu6eC1Gi2ILwU%3D&s_r=1&from=timeline&isappinstalled=0)
 
-### 视频泄出源微博 [明州事记](https://weibo.com/u/6979684213?is_hot=1) 
+## 视频泄出源微博 [明州事记](https://weibo.com/u/6979684213?is_hot=1) 
 
 ## 我也不是完美受害者
 
 微博tag [我也不是完美受害者](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B9%9F%E4%B8%8D%E6%98%AF%E5%AE%8C%E7%BE%8E%E5%8F%97%E5%AE%B3%E8%80%85%23)
+
+## 关联项目
+
++1 讽刺
+
+  [irony](https://github.com/fuckJD/irony/tree/master)
+      
++2 明灯
+
+  [map](https://github.com/fuckJD/map/tree/master)
+  一个可视化地图分布，展示各个地区可能的存在的性犯罪和性骚扰 (todo)
+      
++3 互助
+  [help](https://github.com/fuckJD/map/help/master)
