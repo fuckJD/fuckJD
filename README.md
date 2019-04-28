@@ -52,4 +52,4 @@ fuck the JD
   一个可视化地图分布，展示各个地区可能的存在的性犯罪和性骚扰 (todo)
       
 +3 互助
-  [help](https://github.com/fuckJD/map/help/master)
+  [help](https://github.com/fuckJD/help/master)
