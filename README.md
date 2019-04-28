@@ -54,3 +54,7 @@ fuck the JD
 + 3 互助
 
   [help](https://github.com/fuckJD/help/tree/master)
+  
++ 4 故事  
+
+  [story](https://github.com/fuckJD/story/tree/master)
