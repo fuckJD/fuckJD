@@ -18,7 +18,20 @@ fuck the JD
 
 说出JD违法的地方，举报它
 
+## 起诉书相关
+华尔街见闻 [刘强东被起诉书，当事人授权全译本](https://wallstreetcn.com/articles/3514825)
 
 ## 相关新闻
 
 财新网 [刘强东案女事主回应“我一直在拒绝”](http://companies.caixin.com/2019-04-26/101408728.html)
+      [反侵权公告（第44号）：对凤凰网科技、新浪微博擅改标题歪曲财新文章的强烈谴责](http://m.caixin.com/m/2019-04-26/101409065.html?from=timeline&isappinstalled=0&cx_referer=http%3A%2F%2Fwww.caixin.com%2F2019-04-26%2F101409065.html)
+搜狐 [刘强东案女当事人首次回应媒体 ：否认“仙人跳” “我一直在拒绝” ](http://www.sohu.com/a/310424429_115565)
+## 自媒体讨论
+
+知乎 [如何评价刘强东24G监控流出？](https://www.zhihu.com/question/321720845?utm_source=wechat_session&utm_medium=social&s_s_i=XPtirsFh5Q6%2BR60QQ6SRL%2FJyIoZtLBKu6eC1Gi2ILwU%3D&s_r=1&from=timeline&isappinstalled=0)
+
+### 视频泄出源微博 [明州事记](https://weibo.com/u/6979684213?is_hot=1) 
+
+## 我也不是完美受害者
+
+微博tag [我也不是完美受害者](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B9%9F%E4%B8%8D%E6%98%AF%E5%AE%8C%E7%BE%8E%E5%8F%97%E5%AE%B3%E8%80%85%23)
