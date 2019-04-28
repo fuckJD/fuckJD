@@ -42,14 +42,15 @@ fuck the JD
 
 ## 关联项目
 
-+1 讽刺
++ 1 讽刺
 
   [irony](https://github.com/fuckJD/irony/tree/master)
       
-+2 明灯
++ 2 明灯
 
   [map](https://github.com/fuckJD/map/tree/master)
   一个可视化地图分布，展示各个地区可能的存在的性犯罪和性骚扰 (todo)
       
-+3 互助
++ 3 互助
+
   [help](https://github.com/fuckJD/help/tree/master)
