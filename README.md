@@ -48,7 +48,7 @@ fuck the JD
       
 + 2 明灯
 
-  [map](https://github.com/fuckJD/map/tree/master)
+  [map](https://fuckjd.github.io/map/)
   ![图](https://i.loli.net/2019/04/29/5cc6e806ae5c2.png)
   一个可视化地图分布，展示各个地区可能的存在的性犯罪和性骚扰 (第一版只有一个点，需要更多信息和经纬度)
       
